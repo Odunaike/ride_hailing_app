@@ -11,7 +11,10 @@ A modern ride-hailing application built with Kotlin and Jetpack Compose, leverag
     -   [Installation](#installation)
     -   [Configuration](#configuration)
 -   [Usage](#usage)
--   
+![Screenshot_20250217_070955](https://github.com/user-attachments/assets/780cc637-cf44-455b-b351-9e0a40e65f80)
+
+  ![Screenshot_20250217_071243](https://github.com/user-attachments/assets/6551d5d6-bfda-47fd-a8c7-734467ed77e2)
+
 
 ## Features
 -   **User Location:** Real-time tracking of the user's current location.
